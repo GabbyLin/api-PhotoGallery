@@ -1,0 +1,218 @@
+{
+    "result":[
+        { 
+            "PhotoPathL": "https://picsum.photos/id/100/800/600",
+            "PhotoPathS": "https://picsum.photos/id/100/400/300", 
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/237/800/600", 
+            "PhotoPathS": "https://picsum.photos/id/237/400/300", 
+            "Content": "有8個子圖，有8個子圖，有8個子圖，有8個子圖，有8個子圖，有8個子圖，有8個子圖",
+            "Album":8,
+            "Level":"parent",
+            "Children":[
+                { 
+                    "PhotoPathL": "https://picsum.photos/id/237/800/600", 
+                    "PhotoPathS": "https://picsum.photos/id/237/400/300", 
+                    "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://picsum.photos/id/1003/1024/768", 
+                    "PhotoPathS": "https://picsum.photos/id/1003/400/300", 
+                    "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://picsum.photos/id/1004/800/800", 
+                    "PhotoPathS": "https://picsum.photos/id/1004/400/400", 
+                    "Content": "立法院會28日處理台灣基進立委陳柏惟等人、時代力量黨團、民進黨團分別提出的護照及華航（正）改名公決案；經討論後，全案均交由黨團協商。（檔案照片）",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1920x1280_97058611680.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1920x1280_97058611680.jpg", 
+                    "Content": "武漢肺炎疫苗加速研發 HCT刻意讓志願者染病惹議",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200504/2048x1582_86045766421.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200504/2048x1582_86045766421.jpg", 
+                    "Content": "設計師聶永真接下第15任總統、副總統就職紀念郵票及紀念酒設計。（圖取自facebook.com/GACCTW）",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200418/1308x869_752355367663.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200418/1308x869_752355367663.jpg", 
+                    "Content": "美國國務卿蓬佩奧3日表示，有「大量證據」顯示，目前肆虐全球的冠狀病毒大流行疫情源起中國武漢的實驗室。（圖取自twitter.com/SecPompeo）",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200504/1289x768_847064228596.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200504/1289x768_847064228596.jpg", 
+                    "Content": "台北股市4日開盤跌210.63點，成交金額新台幣78.23億元。（檔案照片）",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200430/1024x768_20200430000172.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200430/1024x768_20200430000172.jpg", 
+                    "Content": "美商晶片大廠英特爾30日推出第10代Intel Core S系列桌上型電腦處理器，其中包括地表最快電競處理器Intel Core i9-10900K，最高速度可達5.3GHz。（英特爾提供）中央社記者吳家豪傳真 109年4月30日",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                }
+            ] 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1005/700/300", 
+            "PhotoPathS": "https://picsum.photos/id/1005/700/300",  
+            "Content": "國際橋牌社",
+            "Album":2,
+            "Level":"parent",
+            "Children":[
+                { 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200427/1154x768_20200427000118.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200427/1154x768_20200427000118.jpg", 
+                    "Content": "國際橋牌社",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1151x768_8689641440.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1151x768_8689641440.jpg", 
+                    "Content": "行道樹行道樹行道樹行道樹行道樹",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                }
+            ] 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1006/800/800", 
+            "PhotoPathS": "https://picsum.photos/id/1006/400/400", 
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1009/800/800", 
+            "PhotoPathS": "https://picsum.photos/id/1009/400/400", 
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/101/650/800", 
+            "PhotoPathS": "https://picsum.photos/id/101/650/800", 
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖", 
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1010/768/1024", 
+            "PhotoPathS": "https://picsum.photos/id/1010/384/512",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",  
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1011/768/1024", 
+            "PhotoPathS": "https://picsum.photos/id/1011/384/512",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",  
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1012/768/1024", 
+            "PhotoPathS": "https://picsum.photos/id/1012/384/512",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1013/800/600", 
+            "PhotoPathS": "https://picsum.photos/id/1013/400/300",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1015/800/600", 
+            "PhotoPathS": "https://picsum.photos/id/1015/400/300",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1016/1200/600", 
+            "PhotoPathS": "https://picsum.photos/id/1016/600/300",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/102/1200/600", 
+            "PhotoPathS": "https://picsum.photos/id/102/600/300",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1024/600/600", 
+            "PhotoPathS": "https://picsum.photos/id/1024/300/300",
+            "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖",
+            "Album":2,
+            "Level":"parent",
+            "Children":[
+                { 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1281x768_08295275831.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200428/1281x768_08295275831.jpg", 
+                    "Content": "國立台灣海洋大學馬祖校區日前正式掛牌，為推動馬祖", 
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20200426/1062x797_425228923873.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20200426/1062x797_425228923873.jpg", 
+                    "Content": "報稅／疫情衝擊手頭緊免擔憂 7大稅務紓困懶人包報你知",  
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                }
+            ] 
+        },{ 
+            "PhotoPathL": "https://picsum.photos/id/1019/1200/600", 
+            "PhotoPathS": "https://picsum.photos/id/1019/600/300",
+            "Content": "首位女性電影配樂家李欣芸 心情電影院台東座談",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{
+            "PhotoPathL": "https://picsum.photos/id/1022/1200/600", 
+            "PhotoPathS": "https://picsum.photos/id/1022/600/300",
+            "Content": "WTO秘書長改選起跑 新掌門人挑戰多",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{
+            "PhotoPathL": "https://picsum.photos/id/1023/1000/800", 
+            "PhotoPathS": "https://picsum.photos/id/1023/500/400",
+            "Content": "台積電股價創新高347元 市值逼近9兆元",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        }
+    
+    
+    ]
+}
+
+
