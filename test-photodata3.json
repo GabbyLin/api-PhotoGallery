@@ -1,0 +1,44 @@
+{
+    "result":[
+        { 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1983x1322_165965378955.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1983x1322_165965378955.jpg", 
+            "Content": "MLB復賽開幕日 衛冕軍國民主場迎戰洋基",
+            "Album":2,
+            "Level":"parent",
+            "Children":[
+                { 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1983x1322_165965378955.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1983x1322_165965378955.jpg", 
+                    "Content": "MLB復賽開幕日 衛冕軍國民主場迎戰洋基",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/1024x768_20200706000171.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/1024x768_20200706000171.jpg", 
+                    "Content": "民進黨高雄市長補選參選人陳其邁（前右2）6日在無黨籍立委林昶佐（前右）等人陪同下宣布，若當選高雄市長，第一件事情就是要恢復大港開唱。",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                }
+            ] 
+        },{ 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/2000x1147_62255970940.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/2000x1147_62255970940.jpg", 
+            "Content": "美國海軍2艘航空母艦4日開始在南海進行演習，其中尼米茲號航空母艦（圖）指揮官海軍少將柯克6日告訴路透社，中國軍艦出現在美軍演習地點附近。",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/1280x853_301317792302.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200706/1280x853_301317792302.jpg", 
+            "Content": "「黃昏三鏢客」、「教會」等電影配樂大師莫利柯內（前）在羅馬辭世，享耆壽91歲。",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        }
+    
+    ]
+}
+

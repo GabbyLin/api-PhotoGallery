@@ -1,0 +1,45 @@
+{
+    "result":[
+        { 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200704/3968x2646_652051224313.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200704/3968x2646_652051224313.jpg", 
+            "Content": "日本九州的熊本、鹿兒島縣等地遭遇數十年僅見大雨，圖為流經熊本縣人吉市的球磨川氾濫，許多民宅與建築4日泡在水中。",
+            "Album":2,
+            "Level":"parent",
+            "Children":[
+                { 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200704/3968x2646_652051224313.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200704/3968x2646_652051224313.jpg", 
+                    "Content": "日本九州的熊本、鹿兒島縣等地遭遇數十年僅見大雨，圖為流經熊本縣人吉市的球磨川氾濫，許多民宅與建築4日泡在水中。",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                },{ 
+                    "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1021x768_20200707000008.jpg", 
+                    "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/1021x768_20200707000008.jpg", 
+                    "Content": "立法院臨時會將對監察院長及監委被提名人行使同意權，立法院長游錫堃（右）7日接受廣播節目主持人周玉蔻（左）專訪時表示，他對監察院長被提名人陳菊非常敬佩",
+                    "Album":0,
+                    "Level":"child",
+                    "Children":null 
+                }
+            ] 
+        },{ 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/800x600_508727682465.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/800x600_508727682465.jpg", 
+            "Content": "新台幣氣勢如虹，7日開盤後旋即向上疾走，一度觸及29.345元、大漲2.06角。",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        },{ 
+            "PhotoPathL": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/785x785_774314911074.jpg", 
+            "PhotoPathS": "https://imgcdn.cna.com.tw/www/WebPhotos/1024/20200707/785x785_774314911074.jpg", 
+            "Content": "教宗方濟各5日原定在公開談話關懷香港，卻在致詞前一刻緊急向媒體抽稿，讓義媒質疑「中國連教宗的喉嚨都掐住了」",
+            "Album":0,
+            "Level":"parent",
+            "Children":null 
+        }
+    
+    ]
+}
+
+
